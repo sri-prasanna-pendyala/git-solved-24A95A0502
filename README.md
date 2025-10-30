@@ -81,3 +81,4 @@ See `/docs` folder and `/docs/ai-integration.md`
 ## License
 MIT License
 
+"## FAQ" 
